@@ -1,0 +1,3 @@
+[submodule "Plugins/ZephyrLibA"]
+	path = Plugins/ZephyrLibA
+	url = https://github.com/zephyr1125/ZephyrLibA.git
